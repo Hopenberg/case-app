@@ -1,0 +1,702 @@
+[
+  {
+    "caseId": 1,
+    "caseNumber": "6757/21",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-04-22"
+  },
+  {
+    "caseId": 2,
+    "caseNumber": "9672/22",
+    "caseType": "Co",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-09-23"
+  },
+  {
+    "caseId": 3,
+    "caseNumber": "3027/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-07-21"
+  },
+  {
+    "caseId": 4,
+    "caseNumber": "4755/21",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-07-13"
+  },
+  {
+    "caseId": 5,
+    "caseNumber": "1578/21",
+    "caseType": "Co",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-12-25"
+  },
+  {
+    "caseId": 6,
+    "caseNumber": "1845/21",
+    "caseType": "Co",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-12-21"
+  },
+  {
+    "caseId": 7,
+    "caseNumber": "2950/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-09-27"
+  },
+  {
+    "caseId": 8,
+    "caseNumber": "1390/21",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-10-08"
+  },
+  {
+    "caseId": 9,
+    "caseNumber": "4208/21",
+    "caseType": "P",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-02-21"
+  },
+  {
+    "caseId": 10,
+    "caseNumber": "9722/21",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-12-16"
+  },
+  {
+    "caseId": 11,
+    "caseNumber": "6812/21",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-12-27"
+  },
+  {
+    "caseId": 12,
+    "caseNumber": "1589/22",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-01-03"
+  },
+  {
+    "caseId": 13,
+    "caseNumber": "4555/22",
+    "caseType": "W",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-12-19"
+  },
+  {
+    "caseId": 14,
+    "caseNumber": "9046/22",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-08-07"
+  },
+  {
+    "caseId": 15,
+    "caseNumber": "9305/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-03-24"
+  },
+  {
+    "caseId": 16,
+    "caseNumber": "4891/22",
+    "caseType": "W",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-06-07"
+  },
+  {
+    "caseId": 17,
+    "caseNumber": "49/21",
+    "caseType": "K",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-06-04"
+  },
+  {
+    "caseId": 18,
+    "caseNumber": "107/22",
+    "caseType": "P",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-01-03"
+  },
+  {
+    "caseId": 19,
+    "caseNumber": "6216/22",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-08-29"
+  },
+  {
+    "caseId": 20,
+    "caseNumber": "2669/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-05-15"
+  },
+  {
+    "caseId": 21,
+    "caseNumber": "7403/21",
+    "caseType": "W",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-08-21"
+  },
+  {
+    "caseId": 22,
+    "caseNumber": "7146/21",
+    "caseType": "P",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2023-01-04"
+  },
+  {
+    "caseId": 23,
+    "caseNumber": "5461/22",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-11-25"
+  },
+  {
+    "caseId": 24,
+    "caseNumber": "8161/22",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-01-06"
+  },
+  {
+    "caseId": 25,
+    "caseNumber": "5266/21",
+    "caseType": "C",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-06-16"
+  },
+  {
+    "caseId": 26,
+    "caseNumber": "600/22",
+    "caseType": "W",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-07-15"
+  },
+  {
+    "caseId": 27,
+    "caseNumber": "9779/22",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2023-01-22"
+  },
+  {
+    "caseId": 28,
+    "caseNumber": "8911/21",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-09-20"
+  },
+  {
+    "caseId": 29,
+    "caseNumber": "1831/22",
+    "caseType": "C",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-02-19"
+  },
+  {
+    "caseId": 30,
+    "caseNumber": "4221/22",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-05-13"
+  },
+  {
+    "caseId": 31,
+    "caseNumber": "3749/21",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2023-01-27"
+  },
+  {
+    "caseId": 32,
+    "caseNumber": "5827/22",
+    "caseType": "W",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-06-30"
+  },
+  {
+    "caseId": 33,
+    "caseNumber": "6544/22",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-10-16"
+  },
+  {
+    "caseId": 34,
+    "caseNumber": "9691/22",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-01-18"
+  },
+  {
+    "caseId": 35,
+    "caseNumber": "8327/22",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-08-26"
+  },
+  {
+    "caseId": 36,
+    "caseNumber": "4118/21",
+    "caseType": "K",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-10-18"
+  },
+  {
+    "caseId": 37,
+    "caseNumber": "3344/21",
+    "caseType": "C",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-01-11"
+  },
+  {
+    "caseId": 38,
+    "caseNumber": "4985/22",
+    "caseType": "Co",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-04-05"
+  },
+  {
+    "caseId": 39,
+    "caseNumber": "6507/21",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-01-12"
+  },
+  {
+    "caseId": 40,
+    "caseNumber": "254/21",
+    "caseType": "C",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-03-16"
+  },
+  {
+    "caseId": 41,
+    "caseNumber": "6509/21",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-11-03"
+  },
+  {
+    "caseId": 42,
+    "caseNumber": "8709/21",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-06-13"
+  },
+  {
+    "caseId": 43,
+    "caseNumber": "2035/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-01-29"
+  },
+  {
+    "caseId": 44,
+    "caseNumber": "1046/22",
+    "caseType": "K",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-10-26"
+  },
+  {
+    "caseId": 45,
+    "caseNumber": "7790/21",
+    "caseType": "C",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-08-29"
+  },
+  {
+    "caseId": 46,
+    "caseNumber": "8729/22",
+    "caseType": "K",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-11-11"
+  },
+  {
+    "caseId": 47,
+    "caseNumber": "2152/22",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-08-27"
+  },
+  {
+    "caseId": 48,
+    "caseNumber": "8149/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-08-22"
+  },
+  {
+    "caseId": 49,
+    "caseNumber": "5991/21",
+    "caseType": "C",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-07-23"
+  },
+  {
+    "caseId": 50,
+    "caseNumber": "1602/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-01-28"
+  },
+  {
+    "caseId": 51,
+    "caseNumber": "727/21",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-07-25"
+  },
+  {
+    "caseId": 52,
+    "caseNumber": "9067/22",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-01-15"
+  },
+  {
+    "caseId": 53,
+    "caseNumber": "4834/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-09-06"
+  },
+  {
+    "caseId": 54,
+    "caseNumber": "338/22",
+    "caseType": "C",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-12-14"
+  },
+  {
+    "caseId": 55,
+    "caseNumber": "5278/21",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-10-06"
+  },
+  {
+    "caseId": 56,
+    "caseNumber": "8528/22",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-08-15"
+  },
+  {
+    "caseId": 57,
+    "caseNumber": "5939/21",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-05-31"
+  },
+  {
+    "caseId": 58,
+    "caseNumber": "6527/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-05-02"
+  },
+  {
+    "caseId": 59,
+    "caseNumber": "684/21",
+    "caseType": "W",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-09-26"
+  },
+  {
+    "caseId": 60,
+    "caseNumber": "2697/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-01-29"
+  },
+  {
+    "caseId": 61,
+    "caseNumber": "7688/22",
+    "caseType": "K",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-12-09"
+  },
+  {
+    "caseId": 62,
+    "caseNumber": "3484/22",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-10-22"
+  },
+  {
+    "caseId": 63,
+    "caseNumber": "8315/22",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-06-17"
+  },
+  {
+    "caseId": 64,
+    "caseNumber": "9754/21",
+    "caseType": "P",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-04-15"
+  },
+  {
+    "caseId": 65,
+    "caseNumber": "7321/21",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-03-27"
+  },
+  {
+    "caseId": 66,
+    "caseNumber": "7602/21",
+    "caseType": "Co",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-04-23"
+  },
+  {
+    "caseId": 67,
+    "caseNumber": "4768/22",
+    "caseType": "C",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-04-02"
+  },
+  {
+    "caseId": 68,
+    "caseNumber": "9413/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-01-02"
+  },
+  {
+    "caseId": 69,
+    "caseNumber": "3990/21",
+    "caseType": "Co",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-08-13"
+  },
+  {
+    "caseId": 70,
+    "caseNumber": "6130/21",
+    "caseType": "K",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-02-01"
+  },
+  {
+    "caseId": 71,
+    "caseNumber": "6268/21",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2023-01-09"
+  },
+  {
+    "caseId": 72,
+    "caseNumber": "7236/21",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-08-16"
+  },
+  {
+    "caseId": 73,
+    "caseNumber": "8551/21",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-03-30"
+  },
+  {
+    "caseId": 74,
+    "caseNumber": "4579/21",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-06-07"
+  },
+  {
+    "caseId": 75,
+    "caseNumber": "6412/22",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-04-24"
+  },
+  {
+    "caseId": 76,
+    "caseNumber": "146/22",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-11-10"
+  },
+  {
+    "caseId": 77,
+    "caseNumber": "4725/22",
+    "caseType": "C",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-01-19"
+  },
+  {
+    "caseId": 78,
+    "caseNumber": "8511/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-04-02"
+  },
+  {
+    "caseId": 79,
+    "caseNumber": "3258/22",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-07-31"
+  },
+  {
+    "caseId": 80,
+    "caseNumber": "1392/22",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-11-17"
+  },
+  {
+    "caseId": 81,
+    "caseNumber": "4311/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2023-01-28"
+  },
+  {
+    "caseId": 82,
+    "caseNumber": "3330/21",
+    "caseType": "W",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-03-25"
+  },
+  {
+    "caseId": 83,
+    "caseNumber": "1988/21",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-04-07"
+  },
+  {
+    "caseId": 84,
+    "caseNumber": "9977/22",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-11-01"
+  },
+  {
+    "caseId": 85,
+    "caseNumber": "5470/21",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-03-23"
+  },
+  {
+    "caseId": 86,
+    "caseNumber": "8487/22",
+    "caseType": "Co",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-06-12"
+  },
+  {
+    "caseId": 87,
+    "caseNumber": "4035/21",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-03-02"
+  },
+  {
+    "caseId": 88,
+    "caseNumber": "7793/22",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-06-22"
+  },
+  {
+    "caseId": 89,
+    "caseNumber": "1388/22",
+    "caseType": "P",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-11-11"
+  },
+  {
+    "caseId": 90,
+    "caseNumber": "4061/22",
+    "caseType": "C",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-10-13"
+  },
+  {
+    "caseId": 91,
+    "caseNumber": "6416/21",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-09-28"
+  },
+  {
+    "caseId": 92,
+    "caseNumber": "1608/22",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-05-31"
+  },
+  {
+    "caseId": 93,
+    "caseNumber": "4553/22",
+    "caseType": "K",
+    "caseState": "OPEN",
+    "dateOfEntry": "2023-01-20"
+  },
+  {
+    "caseId": 94,
+    "caseNumber": "9027/21",
+    "caseType": "W",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-01-31"
+  },
+  {
+    "caseId": 95,
+    "caseNumber": "5571/21",
+    "caseType": "P",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-06-22"
+  },
+  {
+    "caseId": 96,
+    "caseNumber": "3824/21",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-09-20"
+  },
+  {
+    "caseId": 97,
+    "caseNumber": "662/22",
+    "caseType": "C",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-08-12"
+  },
+  {
+    "caseId": 98,
+    "caseNumber": "9562/21",
+    "caseType": "W",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-04-04"
+  },
+  {
+    "caseId": 99,
+    "caseNumber": "6917/21",
+    "caseType": "W",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2022-06-26"
+  },
+  {
+    "caseId": 100,
+    "caseNumber": "8756/22",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-02-25"
+  }
+]

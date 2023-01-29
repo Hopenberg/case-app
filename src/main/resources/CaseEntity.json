@@ -1,0 +1,72 @@
+[
+  {
+    "caseId": 1,
+    "caseNumber": "6180/21",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-12-02"
+  },
+  {
+    "caseId": 2,
+    "caseNumber": "6416/22",
+    "caseType": "P",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-06-22"
+  },
+  {
+    "caseId": 3,
+    "caseNumber": "5413/22",
+    "caseType": "Co",
+    "caseState": "OPEN",
+    "dateOfEntry": "2021-07-03"
+  },
+  {
+    "caseId": 4,
+    "caseNumber": "4357/21",
+    "caseType": "P",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-12-01"
+  },
+  {
+    "caseId": 5,
+    "caseNumber": "18/21",
+    "caseType": "Co",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-03-24"
+  },
+  {
+    "caseId": 6,
+    "caseNumber": "6870/21",
+    "caseType": "Co",
+    "caseState": "DISMISSED",
+    "dateOfEntry": "2021-07-02"
+  },
+  {
+    "caseId": 7,
+    "caseNumber": "9524/21",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-02-14"
+  },
+  {
+    "caseId": 8,
+    "caseNumber": "5233/22",
+    "caseType": "K",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2022-02-10"
+  },
+  {
+    "caseId": 9,
+    "caseNumber": "7262/21",
+    "caseType": "C",
+    "caseState": "OPEN",
+    "dateOfEntry": "2022-03-03"
+  },
+  {
+    "caseId": 10,
+    "caseNumber": "66/22",
+    "caseType": "W",
+    "caseState": "CLOSED",
+    "dateOfEntry": "2021-03-14"
+  }
+]
